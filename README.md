@@ -1,6 +1,6 @@
-# Acro-Messenger
+# Chat-Messenger
 
-Acro Messenger Web Application
+Chat Messenger Web Application
 
 ◦ Developed a messaging application for real-time messaging with the help of socket.io
 
@@ -9,9 +9,3 @@ Acro Messenger Web Application
 ◦ mySQL database is created to store the user and messaging data
 
 ◦ The user is free to join and leave any channel and see online members on the channel
-
-
-Demo Link: https://raw.githack.com/Shreyansh-Chourasiya/Acro-Messenger/main/public/index.html
-
-
-Reference: Traversy Media
